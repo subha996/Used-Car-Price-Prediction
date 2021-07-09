@@ -330,7 +330,7 @@ st.set_page_config(page_title='Used Car price Prediction by Subha', page_icon='ð
 
 # ceating car model brand list.
 # loading the dataset.
-car = pd.read_csv('data\Car_cleaned_with_Model.csv')
+car = pd.read_csv('Car_cleaned_with_Model.csv')
 
 # creating a function for filtering the model name correspond to it brand.
 def find_model(brand):
