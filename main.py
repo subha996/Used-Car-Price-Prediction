@@ -451,7 +451,7 @@ prj_info = """
             
             I am sharing the full project's notebooks along with dataset. \n
             In case if you want to run the file. - [drive link](https://drive.google.com/drive/folders/1-ODpvXAPbn612LZ8gqWSMqYq-0W-lXHv?usp=sharing)\n
-            Only want to look at the code? - [Github]() \n
+            Only want to look at the code? - [Github](https://github.com/subha996/Used-Car-Price-Prediction) \n
             In case want to contact with me -  subhabratanath@outlook.com 📫
 """
 st.write(prj_info)
