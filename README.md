@@ -6,3 +6,6 @@ Here you can predict used car 🚙 price by giving some information like car bra
 
 🚙🚘🚐🚗🚓🚕🛺🚕🚚🚛🚒🚑🚗🚓
 User have to give some information about car, like how much the car has driven, model, brand e.t.c and based on these feature the car price will be predicted
+
+
+[Video Explanation](https://www.youtube.com/playlist?list=PLPL68eAk13fsESpD9_-2fl6zb-PFknvd8)
